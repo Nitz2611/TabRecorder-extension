@@ -1,7 +1,7 @@
 {
-    "name": "Tab Capture - Recorder",
+    "name": "Tab Recorder",
     "description": "Records the current tab in an offscreen document.",
-    "version": "1",
+    "version": "1.0.0",
     "manifest_version": 3,
     "minimum_chrome_version": "116",
     "action": {
